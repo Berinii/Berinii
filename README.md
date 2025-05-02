@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Berinii
-- 👀 I’m interested in a Web Designer job
+- 👀 I’m interested in a Web Developer job
 - 🌱 I’m currently learning Html Css JS PhP MySQL
 
 <!---
